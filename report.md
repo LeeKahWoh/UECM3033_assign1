@@ -38,10 +38,6 @@ $$\int_0^{\infty} \frac{8}{9}*e^{4*\sin(x^4)+5} dx = 0.888888888888889*e^5*\int_
 
 3. Write down your system of 10 linear equations.
 
-Here are the examples of how to add equations in markdown:
-
-$$\int_0^{\infty} e^{-x^2} dx = \frac{\sqrt{\pi}}{2}.$$
-
 \begin{align*}
 1 x_0 + 2 x_1 + 2 x_2 + 8 x_3 + 6 x_4 + 8 x_5 + 1 x_6 + 2 x_7 + 4 x_8 + 7 x_9 &= 3,\\
 5 x_0 + 2 x_1 + 0 x_2 + 0 x_3 + 0 x_4 + 0 x_5 + 2 x_6 + 5 x_7 + 5 x_8 + 5 x_9 &= 1,\\
